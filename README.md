@@ -605,7 +605,7 @@ _______________________
 
 ## RAG + MCP + GitHub Copilot on a Mock API
 
-> Educational project demonstrating how to integrate RAG, MCP, and GitHub Copilot to transform technical documentation into an intelligent assistant capable of answering questions and executing real actions, all from within the editor.
+> Educational project demonstrating how to integrate RAG, MCP, and claude or some assitan like copilot to transform technical documentation into an intelligent assistant capable of answering questions and executing real actions, all from within the editor.
 
 ---
 
